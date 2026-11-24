@@ -1,6 +1,6 @@
 # Mini Project 3-3 — Turn-Based Combat (C++)
 
-A university assignment in C++ that implements a small turn-based combat game on a grid map: units with combat attributes move and fight on the map, with a dedicated engine resolving the combat and a manager handling turn order.
+A university assignment in C++ that implements a small turn-based combat game on a grid map: units with combat attributes move and fight on the map, with combat resolution handled by a dedicated engine and turn order managed separately.
 
 ## Classes
 
